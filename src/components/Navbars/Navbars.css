@@ -1,0 +1,38 @@
+.btn{
+    text-align: center;
+    font-size: large;
+    font-weight: bolder;
+    color: rgb(235, 227, 212);
+    background-color: rgb(2, 187, 73);
+    border: black;
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.btn:hover{
+    background-color: rgb(14, 134, 60);
+}
+.btn_q{
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    background-color: rgb(240, 144, 18);
+    margin-left: 5px;
+    margin-right: 10px;
+}
+.btn_q:hover{
+    background-color: rgb(240, 218, 18);
+}
+
+.ww{
+    background-color: tomato;
+    border-radius: 5px;
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+
+.img {
+    background-image: url("../Node/start.png");
+    width: 25px;
+    height: 25px;
+}
