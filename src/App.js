@@ -9,7 +9,7 @@ function App() {
       <PathFindingVisualizer></PathFindingVisualizer>
       <footer className="foot">
         <p>&copy; PATH-FINDING-VISUALISER by TANMAY MALLICK
-          <a href="" className="social"><FaGithub size='1.3em' color="" /></a></p>
+          <a href="https://github.com/Tanmay2812/Path-Finder" className="social"><FaGithub size='1.3em' color="" /></a></p>
       </footer>
     </div >
   );
